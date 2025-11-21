@@ -107,3 +107,4 @@ root.grid_columnconfigure(1, weight=1)
 
 # --- 7. Run the Tkinter main loop ---
 root.mainloop()
+
